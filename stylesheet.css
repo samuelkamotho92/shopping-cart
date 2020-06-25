@@ -38,7 +38,7 @@ body
 .max-height{
     min-height:100vh;
  background:linear-gradient(var(--yellowTrans), var(--yellowTrans)),
-  url("/img/headerBcg.jpeg");
+  url("/assets/headerBcg.jpeg");
 background-position: cover;
 background-size:cover;
 background-attachment: fixed;
@@ -148,7 +148,7 @@ position: relative;
 {
     color: var(--mainWhite);
     background:linear-gradient(rgba(0 ,0 , 0 , 0.6), rgba(0, 0 , 0 , 0.6)),
-    url("/img/servicesBcg.jpeg")center/cover fixed no-repeat;
+    url("/assets/servicesBcg.jpeg")center/cover fixed no-repeat;
 }
 .service-title
 {

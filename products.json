@@ -5,7 +5,7 @@
             "fields":{
                 "title":"Birth day cakes",
                 "price":"2000",
-                "image":{"fields": {"file": {"url": "./img/BirthdayCakes.jpeg"}}}
+                "image":{"fields": {"file": {"url": "./assets/BirthdayCakes.jpeg"}}}
             }
         },
         {
@@ -13,7 +13,7 @@
             "fields":{
                 "title":"Wedding Cakes ",
                 "price":"6000",
-                "image":{"fields": {"file": {"url": "./img/WeddingCakes.jpeg"}}}
+                "image":{"fields": {"file": {"url": "./assets/WeddingCakes.jpeg"}}}
             }
         },
         {
@@ -21,7 +21,7 @@
             "fields":{
                 "title":"Ordinary Cakes",
                 "price":"1000",
-                "image":{"fields": {"file": {"url": "./img/OrdinaryCakes.jpeg"}}}
+                "image":{"fields": {"file": {"url": "./assets/OrdinaryCakes.jpeg"}}}
             }
         }
     ]
